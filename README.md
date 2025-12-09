@@ -58,7 +58,7 @@ WEATHER_CITY=London
 ```
 
 ### 3. Запустить все сервисы
-
+Из корневой директории проекта (`weather_app`):
 ```bash
 docker compose up -d --build
 ```
